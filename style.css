@@ -3,8 +3,9 @@ body {
     padding-left: 400px;
     padding-right: 400px;
     font-size: 16px;
-    font-family:Serif;
+    font-family: serif;
     font-weight: 400, 600, 700;
+   
 }
 
 .container {
@@ -35,7 +36,12 @@ body {
 .row {
     word-spacing: 185px;
   }
-
+h4 {
+    color: rgb(159, 94, 62);
+}
+h5{
+    color: brown;
+}
 @media(max-width: 375px){
     body {
         background-color: rgb(232, 207, 184);
